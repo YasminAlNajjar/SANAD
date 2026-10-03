@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ni7170991-source/daftari-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/YasminAlNajjar/daftari-backend.git
